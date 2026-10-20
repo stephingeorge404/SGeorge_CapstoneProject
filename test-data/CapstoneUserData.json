@@ -1,0 +1,21 @@
+[
+    {
+        "fullname": "Carlo Winston George",
+        "email": "CWGeorge@CBCradio.com",
+        "Address": "62 Brucker Rd,\nBarrie,\nON, \nL4M 4H8, \nCanada"
+
+    },
+    {
+        "fullname": "Margaret Lizbeth Roslyn George",
+        "email": "MLRoslynGeorge@CBCradio.com",
+        "Address": "1298 Lawson RD, Barrie, ON"
+    },
+    {
+        "fName": "Carlo Winston",
+        "lName": "George",
+        "email": "CWGeorge@CBCradio.com",
+        "mobNo": "7057701881",
+        "DOB" : "2026-02-06",
+        "Address":"62 Brucker Rd,\nBarrie,\nON, \nL4M 4H8, \nCanada"
+    }
+]
